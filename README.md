@@ -4,3 +4,4 @@ A scenario is given, that is all.
 Data is self made.  
 
 The document shows the data made and shows familiarity with SQL server.
+Only parts of the document is taken.
